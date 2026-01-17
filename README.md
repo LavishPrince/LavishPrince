@@ -31,11 +31,6 @@ and DevOps practices.
 
 ## 🚀 Projects
 
-### 📌 Parking Booking System – _Flask, MySQL, JavaScript_
-
-Developed a full-stack web app for real-time parking slot booking with user  
-authentication and dynamic UI using Jinja2 and Bootstrap.
-
 ### 📌 CI/CD Pipeline for .NET App – _Jenkins, Docker, AWS EC2_
 
 Built an automated CI/CD pipeline using Jenkins and Docker to containerize  
@@ -51,15 +46,6 @@ functions and trigger alerts on timeouts or errors.
 Designed and deployed a secure, scalable web app on Azure with backend  
 data isolation in a Virtual Network.
 
-### 📌 Wordle Game Clone – _HTML, CSS, JavaScript_
-
-Built a responsive, browser-based clone of Wordle with game logic, color  
-feedback, and mobile-friendly UI.
-
-### 📌 ICERECT 2022 Conference Website – _HTML, CSS_
-
-Designed and deployed a static site for an international engineering  
-conference with mobile responsiveness and clean UX.
 
 ---
 
@@ -67,8 +53,7 @@ conference with mobile responsiveness and clean UX.
 
 **B.E. in Electronics and Communication Engineering**  
 PES College of Engineering (PESCE), Mandya  
-📅 2019 – 2023  
-📊 CGPA: 7.23 / 10
+📅 2019 – 2023 
 
 ---
 
