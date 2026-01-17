@@ -1,6 +1,6 @@
 # 💻 Vinay D G
 
-**Tumakuru, Karnataka – 572106**  
+**Bengaluru, Karnataka – 572106**  
 📞 +91 91102 44067  
 📧 [vinaydg2001@gmail.com](mailto:vinaydg2001@gmail.com)  
 🌐 [github.com/LavishPrince](https://github.com/LavishPrince)  
